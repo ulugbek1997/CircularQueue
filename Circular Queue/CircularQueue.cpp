@@ -58,18 +58,6 @@ bool CircularQueue::isEmpty(){
 }
 
 
-void CircularQueue::show(){
-    for (int i = front; i <= rear; i++)
-        std::cout<<arrayOfInt[i]<<" ";
-}
-
-
-
-
-
-
-
-
 
 
 
